@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6i0050/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0050/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥師琉璃光如來消災除難念誦儀軌
+  identifiers:
+    krp: KR6i0050
+    cbeta: T19n0922
+    cbeta_old_id: T19n0922
+    authorityid: CA0003693
+    json_key: T0922
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0922.xml
+    old_id: T19n0922
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0050_000-T.yaml, hash: 'sha256:6931f7c1f564b11f84a0d440dcd68f8893fe2562f8e547c047fa421bc896b248'}
+  - {seq: 1, filename: KR6i0050_001-T.yaml, hash: 'sha256:6d61aa896a0d52d4242d96672369eedc95b66fffb2da94ef0bd7781af0059044'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0050_000-T.markers.yaml, hash: 'sha256:2cb49a6c19fd2955619a3719b5ebfdff2667d78f045a5f0e7f020985af1684a6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0050_001-T.markers.yaml, hash: 'sha256:841d232e4d7b5c418057f0036cc9222bcc21b94fa3b676c9c5cc1c3ff24824f0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0050_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2131
+  label: '藥師瑠璃光如來消災除難念誦
+
+    儀軌'
+  type: juan
+  level: 1
+hash: sha256:c600239f7f7bf6701215f75682fa7705c38e4bb4970d55acd097f564636ee4cd

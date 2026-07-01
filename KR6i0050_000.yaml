@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0050/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥師琉璃光如來消災除難念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0922.xml
+    old_id: T19n0922
+hash: sha256:6931f7c1f564b11f84a0d440dcd68f8893fe2562f8e547c047fa421bc896b248
