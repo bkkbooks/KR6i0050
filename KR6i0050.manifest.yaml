@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0050/v1
 canonical_location: https://kanripo.org/bkk/KR6i0050/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥師琉璃光如來消災除難念誦儀軌
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0050_000.yaml, hash: 'sha256:6931f7c1f564b11f84a0d440dcd68f8893fe2562f8e547c047fa421bc896b248'}
-  - {seq: 1, filename: KR6i0050_001.yaml, hash: 'sha256:6d61aa896a0d52d4242d96672369eedc95b66fffb2da94ef0bd7781af0059044'}
+  - {seq: 1, filename: KR6i0050_001.yaml, hash: 'sha256:d2562d39e92999825fab55460acff384db8e0df12a53ac2af1f9c602b71eb31b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0050_000.markers.yaml, hash: 'sha256:74d6ad9ce1724c05e9683990bf55e5e31a91e03b225d1925d22d11dd54581fd9'}
-  - {seq: 1, role: markers, filename: assets/KR6i0050_001.markers.yaml, hash: 'sha256:fab59f417901235d964e97848048ba8e788d6d07ea63c7553e2aa923410da90c'}
+  - {seq: 1, role: markers, filename: assets/KR6i0050_001.markers.yaml, hash: 'sha256:36699d19614ca19b69717208d078e062e620166e1bfd3e55ba795957e9c65bb1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,4 +51,7 @@ table_of_contents:
     儀軌'
   type: juan
   level: 1
-hash: sha256:6aa876494952c5d3b52a3bc3265859fbbb1f1dc0615fcef20d011a1cd1403567
+hash: sha256:e348aacb990fbe42bed6520aaf5edfcbf4326b59e918405ffc1eb1a1dd1f5ee2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
